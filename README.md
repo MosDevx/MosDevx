@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosdevx" alt="mosdevx" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby , Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
